@@ -3,10 +3,10 @@
 >all files are free for study only
 
 - backend (root)
-  - [] only service of trends
+  - [x] only service of trends
 
 - pattern
-  - [] use for design web and mobile
+  - [x] use for design web and mobile
 
 - SVGs
-  - [] use for UI of web
+  - [x] use for UI of web
