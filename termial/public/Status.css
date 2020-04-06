@@ -1,0 +1,45 @@
+#status {
+  flex: 1;
+  scroll-behavior: smooth;
+  border-radius: 8px;
+}
+
+div#status {
+  background: #242431;
+  height: 330px;
+  font-family: "Fira Code", monospace;
+  color: rgba(80, 250, 123, 1) !important;
+}
+
+div#status ul {
+  padding: 5px;
+  font-size: 14px;
+  font-family: 'Roboto', Arial, sans-serif;
+}
+
+div#status ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div#status ul li {
+  position: relative;
+  background: rgba(68, 71, 90, 1) !important;
+  border-radius: 4px;
+  margin: 3px;
+  padding: 3px;
+}
+
+div#status ul li span {
+  background: #DEDEDE;
+  color: #000;
+  cursor: pointer;
+
+  border-radius: 8px;
+  width: 20px;
+  height: 20px;
+}
+
+div#status ul li span:hover {
+  background: #F28;
+}

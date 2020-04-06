@@ -1,0 +1,33 @@
+div#terminal {
+  flex: 1;
+  background: rgba(68, 71, 90, 1) !important;
+  height: 60px;
+}
+
+div#terminal div#end-group {
+  display: flex;
+}
+
+div#terminal div#end-group label {
+  color: #F25 !important;
+  background-color: rgba(40, 42, 54, 1) !important;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+
+  padding: 3px 0;
+  width: 25%;
+  font-family: 'Fira Code';
+  font-size: 15px;
+}
+
+div#terminal div#end-group input[id="insert"] {
+  color: rgba(139, 233, 253, 1) !important;
+  background-color: rgba(40, 42, 54, 1) !important;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+
+  width: 95%;
+  padding: 1px 0;
+  font-family: "Fira Code", monospace;
+  font-size: 18px;
+}

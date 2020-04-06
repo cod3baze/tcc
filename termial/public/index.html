@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./terminal.css" />
+  <link rel="stylesheet" href="./Status.css">
+  <link rel="stylesheet" href="./Global.css">
+  <title>Document | Terminal</title>
+</head>
+
+<body>
+  <div id="App">
+    <div id="terminal" style="border-right: 1px solid #FFFFFF;">
+      <div id="head-group">
+        <h3>Terminal</h3>
+        <img id="assets" src="./../assets/icons/hash-yellow.svg" alt="*" />
+      </div>
+      <div id="end-group">
+        <label for="insert">Trends ~:</label>
+        <input type="text" name="insert" id="insert">
+      </div>
+    </div>
+    <div id="status">
+      <div id="head-group">
+        <h3>All return</h3>
+        <img src="./../assets/icons/crop-red.svg" alt="+" />
+      </div>
+      <ul>
+        <li id="Javascript">Javascript <span id="Javascript" onclick="handleRemoveItem(this)">X</span></li>
+      </ul>
+    </div>
+  </div>
+</body>
+
+<script src="./../src/index.js"></script>
+
+</html>
