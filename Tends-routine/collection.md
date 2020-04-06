@@ -1,22 +1,42 @@
 # Collections
 
 Coletar:
-escolher qual categoria mais le caracteriza:
-[] Programador.
-[] Marketing digital.
-[] Engenheiro de TI.
-[] Analista de Sistema.
-[] Rede de computadores.
-[] Segurança de Redes.
+escolher qual categoria mais lhe caracteriza:
+[X] Programador.
+[X] Marketing digital.
+[X] Engenheiro de TI.
+[X] Analista de Sistema.
+[X] Rede de computadores.
+[X] Segurança de Redes.
 
 seu nível da categaria / tecnologia:
-[] iniciante
-[] intermediário
-[] Avançado
+[X] iniciante
+[X] intermediário
 
 Sudestões:
-Iniciante (Programador):
-[] conteúdos da SoloLearn / CursoEmVídeo de acordo com a linguagem
+(Programador)
+Iniciante:
+[X] conteúdos da SoloLearn / CursoEmVídeo de acordo com a linguagem
+[X] conteúdos auxiliares dos ends
+
+(Marketing digital)
+Iniciante:
+[X]
+
+(Analista de Sistema)
+Iniciante:
+[X]
+
+(Rede De computadores)
+Iniciante:
+[X]
+
+(Marketing digital)
+Iniciante:
+[X]
 
 Todas categorias:
-[] Git/Github -> RocketSeat : Udemy
+[X] Git/Github -> RocketSeat : Udemy...
+[X] Termos da área tecnica
+[X] Boas praticas
+[X] Posts relevantes do Trends sobre o assunto (Oque deveria saber)
