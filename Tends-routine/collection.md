@@ -1,42 +1,51 @@
 # Collections
 
 Coletar:
-escolher qual categoria mais lhe caracteriza:
-[X] Programador.
-[X] Marketing digital.
-[X] Engenheiro de TI.
-[X] Analista de Sistema.
-[X] Rede de computadores.
-[X] Segurança de Redes.
 
-seu nível da categaria / tecnologia:
-[X] iniciante
-[X] intermediário
+- escolher qual categoria mais lhe caracteriza:
 
-Sudestões:
-(Programador)
-Iniciante:
-[X] conteúdos da SoloLearn / CursoEmVídeo de acordo com a linguagem
-[X] conteúdos auxiliares dos ends
+  - [x] Programador.
+  - [x] Marketing digital.
+  - [x] Engenheiro de TI.
+  - [x] Analista de Sistema.
+  - [x] Rede de computadores.
+  - [x] Segurança de Redes.
 
-(Marketing digital)
-Iniciante:
-[X]
+- seu nível da categaria / tecnologia:
 
-(Analista de Sistema)
-Iniciante:
-[X]
+  - [x] iniciante
+  - [x] intermediário
 
-(Rede De computadores)
-Iniciante:
-[X]
+- Sudestões:
+  (Programador)
+  Iniciante:
 
-(Marketing digital)
-Iniciante:
-[X]
+  - [x] conteúdos da SoloLearn / CursoEmVídeo de acordo com a linguagem
+  - [x] conteúdos auxiliares dos ends
+
+  (Marketing digital)
+  Iniciante:
+
+  - [X]
+
+  (Analista de Sistema)
+  Iniciante:
+
+  - [X]
+
+  (Rede De computadores)
+  Iniciante:
+
+  - [X]
+
+  (Marketing digital)
+  Iniciante:
+
+  - [X]
 
 Todas categorias:
-[X] Git/Github -> RocketSeat : Udemy...
-[X] Termos da área tecnica
-[X] Boas praticas
-[X] Posts relevantes do Trends sobre o assunto (Oque deveria saber)
+
+- [x] Git/Github -> RocketSeat : Udemy...
+- [x] Termos da área tecnica
+- [x] Boas praticas
+- [x] Posts relevantes do Trends sobre o assunto (Oque deveria saber)
