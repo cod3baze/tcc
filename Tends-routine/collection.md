@@ -45,7 +45,8 @@ Coletar:
 
 Todas categorias:
 
-- [x] Git/Github -> RocketSeat : Udemy...
+- [x] Git/Github: RocketSeat, Udemy...
 - [x] Termos da área tecnica
 - [x] Boas praticas
 - [x] Posts relevantes do Trends sobre o assunto (Oque deveria saber)
+- [x] Notiias sobre a categoria : google | Microsoft
