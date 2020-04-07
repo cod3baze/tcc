@@ -22,29 +22,52 @@ Coletar:
 
   - [x] conteúdos da SoloLearn / CursoEmVídeo de acordo com a linguagem
   - [x] conteúdos auxiliares dos ends
+  - [x] como os programas funcionam
+
+  Intermediáiro:
+
+  - [x] inclui tudo do iniciante.
+  - [x] (APIs) | WebServiçes | DevOps | Frameworks
 
   (Marketing digital)
   Iniciante:
 
-  - [X]
+  - [x] WEB: site
 
   (Analista de Sistema)
   Iniciante:
 
-  - [X]
+  - [x] WEB
+
+  (Engenharia da Computação)
+  Iniciante
+
+  - [x] WEB
 
   (Rede De computadores)
   Iniciante:
 
-  - [X]
+  - [x] Protocolos de rede
+  - [x] TCP/IP | servidores : funcionamento...
+  - [x] CursoEmVideo
+  - [x] Modelo : OSI.
+  - [x] Transmisões de pacotes: Unicast, brodcast...
+  - [x] Endereço MAC, Switch..
+  - [x] youtube: Bóson Treinamentos
 
-  (Marketing digital)
+  (Segurança de Redes)
   Iniciante:
 
-  - [X]
+  - [x] Terminal
+  - [x] Linux (Kali linux | Mint)
+  - [x] os termos
+  - [x] IDS | IPS | Firewall | VPN
+  - [x] python: w3school | segurança
+  - [x] youtube: SegInfoBrasil
 
 Todas categorias:
 
+- [x] Introdução
 - [x] Git/Github: RocketSeat, Udemy...
 - [x] Termos da área tecnica
 - [x] Boas praticas
