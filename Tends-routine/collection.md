@@ -5,8 +5,6 @@ Coletar:
 - escolher qual categoria mais lhe caracteriza:
 
   - [x] Programador.
-  - [x] Marketing digital.
-  - [x] Engenheiro de TI.
   - [x] Analista de Sistema.
   - [x] Rede de computadores.
   - [x] Segurança de Redes.
@@ -73,3 +71,13 @@ Todas categorias:
 - [x] Boas praticas
 - [x] Posts relevantes do Trends sobre o assunto (Oque deveria saber)
 - [x] Notiias sobre a categoria : google | Microsoft
+
+---
+
+Search repo marked (Local)
+
+- busca os repo que voce marcou.
+
+Search (Global)
+
+- busca em toda plataforma
