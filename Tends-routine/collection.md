@@ -81,3 +81,15 @@ Search repo marked (Local)
 Search (Global)
 
 - busca em toda plataforma
+
+---
+
+## Trechis
+
+- [X] todos
+- curtas postagens. aparecerão no feed de acordo com as tags.
+
+## Repo
+
+- [X] Avançados
+- médias postagens. apenas quem for avançado.
