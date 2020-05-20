@@ -11,6 +11,10 @@
   [X] email
   [x] Password
 
+- Complete Profile
+
+  [X] dados para melhorar as thrends no feed.
+
 - Styles
 
 - Greeting: #F3F7FD

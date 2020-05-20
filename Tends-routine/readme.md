@@ -6,31 +6,31 @@ Last Edited: Mar 31, 2020 7:16 PM
 ## Trend
 
 - Sistema de sugestão.
-    - [ ]  descobrir oque vai ser sugerido.
-    - [ ]  Buscar APIs de sugestão / informação para o endpoint.
-    - [ ]  descobrir melhor forma de usar esses recursos.
-    - [ ]  analisar quais dados do endpoint vão ser necessários.
+  - [x] descobrir oque vai ser sugerido.
+  - [x] Buscar APIs de sugestão / informação para o endpoint.
+  - [x] descobrir melhor forma de usar esses recursos.
+  - [x] analisar quais dados do endpoint vão ser necessários.
 - Lidar com os recursos.
-    - [ ]  descobrir sites de destaques para as sugestões.
-    - [ ]  classificar como apresentar (os sites) a um endpoint.
+  - [x] descobrir sites de destaques para as sugestões.
+  - [x] classificar como apresentar (os sites) a um endpoint.
 - Teminal
-    - [ ]  sistema de login.
-    - [ ]  feedback do endpoint.
-    - [ ]  enviar requisições, posts para o feed.
-    - [ ]  integrável a todos os recursos possíveis do aceite.
+  - [ ] sistema de login.
+  - [ ] feedback do endpoint.
+  - [ ] enviar requisições, posts para o feed.
+  - [ ] integrável a todos os recursos possíveis do aceite.
 - Interação (Dinamica)
-    - [ ]  sugestões entre endoints : poder sugerir outros méios de estudos. (recebe stars do end.)
-    - [ ]  criar dinamica.
+  - [ ] sugestões entre endoints : poder sugerir outros méios de estudos. (recebe stars do end.)
+  - [ ] criar dinamica.
 - Dinâmica
-    - [ ]  issues para ser analisadas.
-    - [ ]  destacar as issues.
+  - [x] issues para ser analisadas.
+  - [x] destacar as issues: Sugestões.
 - Github
-    - [ ]  Mencionar seus repos no github (pins)
+  - [ ] Mencionar seus repos no github (pins)
 - Marketplace
-    - [ ]  Sugestões para todos os endpoints
-    - [ ]  melhores trends, package, tools... ( by categorie ).
+  - [x] Sugestões para todos os endpoints
+  - [x] melhores trends, package, tools... ( by categorie ).
 - Profile
-    - [ ]  mostrar todos os dados do user **(acima)**.
-    - [ ]  Progresso nas atividades. *(activity)*.
+  - [x] mostrar todos os dados do user **(acima)**.
+  - [ ] Progresso nas atividades. _(activity)_.
 - Explore
-    - [ ]  exibindo de forma dinâmica as tools dos ends, issues..
+  - [x] exibindo de forma dinâmica as tools dos ends, issues..
