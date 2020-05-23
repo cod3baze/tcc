@@ -10,3 +10,6 @@
 
 - SVGs
   - [x] use for UI of web
+  
+- In end
+  - [X] All will be migrated
