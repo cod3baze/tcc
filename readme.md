@@ -1,10 +1,11 @@
 # WELCOME TO MY TCC FILES
 
->all files are free for study only
+> All will be migrate in Geni-sys
 
 - backend (root)
   - [x] only service of trends
   - migrate to Sequilize(MySQL)
+  - all up to date in Genesys
 
 - pattern
   - [x] use for design web and mobile
