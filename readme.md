@@ -4,6 +4,7 @@
 
 - backend (root)
   - [x] only service of trends
+  - migrate to Sequilize(MySQL)
 
 - pattern
   - [x] use for design web and mobile
