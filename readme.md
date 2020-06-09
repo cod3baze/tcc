@@ -16,5 +16,5 @@
 - In end
   - [X] All will be migrated
   
-  [x] WEB
-    - Already in development
+  WEB
+    - [X] Already in development
