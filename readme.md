@@ -2,19 +2,9 @@
 
 > All will be migrate in Geni-sys
 
-- backend (root)
-  - [x] only service of trends
-  - migrate to Sequilize(MySQL)
-  - all up to date in Genesys
-
-- pattern
-  - [x] use for design web and mobile
-
-- SVGs
-  - [x] use for UI of web
+- ::root
+  - [X] all up to date in Genesys
   
 - In end
-  - [X] All will be migrated
+  - [X] All will be migrated for [Genesis](https://github.com/geni-sys)
   
-  WEB
-    - [X] Already in development
