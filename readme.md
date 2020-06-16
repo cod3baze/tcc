@@ -2,8 +2,8 @@
 
 > All will be migrate in Geni-sys
 
-- ::root
-  - [X] all up to date in Genesys
+- ::NEEDED
+  - [X] CSS for responsive 
   
 - In end
   - [X] All will be migrated for [Genesis](https://github.com/geni-sys)
