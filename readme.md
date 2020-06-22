@@ -1,6 +1,6 @@
 # WELCOME TO MY TCC FILES
 
-> All will be migrate in Geni-sys
+> Mobile do not will be created here.
 
 - ::NEEDED
   - [X] CSS for responsive 
