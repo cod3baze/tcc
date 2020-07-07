@@ -4,7 +4,7 @@
 
 - ::NEEDED
   - [X] CSS for responsive
-    - [X] Will be created with GRID-TEMPLATE
+    - [X] in progess
   
 - In end
   - [X] All will be migrated for [Genesis](https://github.com/geni-sys)
