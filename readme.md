@@ -1,12 +1,11 @@
 # WELCOME TO MY TCC FILES
 
->all files are free for study only
+> Mobile do not will be created here.
 
-- backend (root)
-  - [x] only service of trends
-
-- pattern
-  - [x] use for design web and mobile
-
-- SVGs
-  - [x] use for UI of web
+  - Responsive
+    - [X] [in progess](https://github.com/eliasallex/screen-manipulation-ewb)
+    - [X] HOME: `done`
+  
+- In end
+  - [X] All will be migrated for [Genesis](https://github.com/geni-sys)
+  
