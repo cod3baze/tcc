@@ -25,7 +25,7 @@ Last Edited: Mar 31, 2020 7:16 PM
   - [x] issues para ser analisadas.
   - [x] destacar as issues: Sugestões.
 - Github
-  - [ ] Mencionar seus repos no github (pins)
+  - [X] Mencionar seus repos no github (pins)
 - Marketplace
   - [x] Sugestões para todos os endpoints
   - [x] melhores trends, package, tools... ( by categorie ).
