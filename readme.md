@@ -6,7 +6,7 @@
 ![Issue preview](./assets/issue.PNG)
 
 - Responsive
-  - [X] [in progess](https://github.com/eliasallex/screen-manipulation-ewb)
+  - [X] [in progess](https://github.com/geni-sys/webfinal)
   - [x] AUTH ✔️️
   - [x] HOME ✔️️
   - [x] NEW-ISSUE ✔️️
