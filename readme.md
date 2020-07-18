@@ -14,7 +14,7 @@
   - [x] NOTIFICATIONS ✔️️
   - [x] RESULTS ✔️️
   - [x] LEARNING-A-ISSUE ✔️️
-  - [X] Settings ✔️️
+  - [X] Settings (unclose) ✔️️
   
 - In end
  - [X] All will be migrated for [Genesis](https://github.com/geni-sys)
