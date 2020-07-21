@@ -15,6 +15,9 @@
   - [x] RESULTS ✔️️
   - [x] LEARNING-A-ISSUE ✔️️
   - [X] Settings (unclose) ✔️️
+ 
+ - what new
+  - New parameters added in oficial page
   
 - In end
  - [X] All will be migrated for [Genesis](https://github.com/geni-sys)
