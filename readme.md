@@ -7,13 +7,13 @@
 
 - Responsive
   - [X] [in progess](https://github.com/geni-sys/webfinal)
-  - [x] CLOSED IN MAIN REPOSITORIE
+  - [x] CLOSED (SOON) IN MAIN REPOSITORIE
  
- - what new
-  - New parameters added in oficial page
+- News
+  - [X] New parameters added in oficial page.
   
 - In end
-  - [X] All will be migrated for [Genesis](https://github.com/geni-sys)
+  - [X] All will be migrated for [Genesis](https://github.com/geni-sys).
 
 - STATUS
-  - [X] In developement at GENESIS-SYS
+  - [X] In developement at GENESIS-SYS.
