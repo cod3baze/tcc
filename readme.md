@@ -6,7 +6,7 @@
 ![Issue preview](./assets/issue.PNG)
 
 - Chats (DASHBOARD)
-![Chat controle](./assets/Chats.PNG)
+![Chat controle](./assets/chats.PNG)
 
 - Responsive
   - [X] [in progess](https://github.com/geni-sys/webfinal)
