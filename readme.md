@@ -5,8 +5,11 @@
 - preview
 ![Issue preview](./assets/issue.PNG)
 
-- Chats (DASHBOARD)
+- Chats
 ![Chat controle](./assets/chats.PNG)
+
+- DASHBOARD
+![home screen: dashboard](./assets/home_dash.PNG)
 
 - Responsive
   - [X] [in progess](https://github.com/geni-sys/webfinal)
