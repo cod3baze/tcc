@@ -24,3 +24,7 @@
 - STATUS
   - [X] In developement at GENESIS-SYS.
   - [X] [PROGRESS](https://www.notion.so/Webfinal-b7b36ab07fee49a1a50f339d6e970d29)
+  
+- FEATURES
+  - [X] screen direction.
+  - [X] design of confirmation box.
