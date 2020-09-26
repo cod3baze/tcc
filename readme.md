@@ -17,6 +17,7 @@
  
 - News
   - [X] New parameters added in oficial page.
+  - [X] WEBFINAL Almost ready.
   
 - In end
   - [X] All will be migrated for [Genesis](https://github.com/geni-sys).
