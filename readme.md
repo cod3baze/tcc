@@ -1,6 +1,8 @@
 # WELCOME TO MY TCC FILES
 
 > Mobile do not will be created here.
+
+## ALMOST READY
   
 - preview
 ![Issue preview](./assets/issue.PNG)
